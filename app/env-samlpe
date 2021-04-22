@@ -1,0 +1,3 @@
+ENV_MODE=dev
+URL=http://www.mocky.io/v2/58ff37f2110000070cf5ff16
+CSV_DIR=/public/csv/file.csv

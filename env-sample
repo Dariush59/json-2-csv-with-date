@@ -1,0 +1,12 @@
+### COMPOSER #################################################
+# If INSTALL_LARAVEL is true
+INSTALL_COMPOSER=true
+
+### PHP APP #################################################
+APP_CONTAINER_NAME=php-fpm
+APP_VOLUME_NAME=app
+APP_PORT=9000
+
+### NGINX #################################################
+NGNIX_CONTAINER_NAME=hmb-nginx-alpine
+NGINX_PORT=8000
