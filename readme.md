@@ -14,6 +14,7 @@ docker-compose up -d --build
 ```
 docker-compose exec php-fpm composer install
 ```
+
 # App Env 
 ```
 cp app/env-sample app/.env 
