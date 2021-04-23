@@ -16,7 +16,7 @@ docker-compose exec php-fpm composer install
 ```
 # App Env 
 ```
-cp app/env-samlpe app/.env 
+cp app/env-sample app/.env 
 ```
 
 # Backend App Url
